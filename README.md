@@ -1,6 +1,6 @@
 # Práctica abogabot
 
-Como parte de Innovacción se desarrolla una práctica en la que se deben pide realizar lo siguiente:
+Como parte de Innovacción de Microsoft se desarrolla una práctica en la que se deben pide realizar lo siguiente:
 
 * Toma de requerimientos.
 * Buyer persona.
