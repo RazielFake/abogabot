@@ -1,6 +1,6 @@
 # Práctica abogabot
 
-Como parte de Innovacción se desarrolla una práctica en la que se deben desarrollar lo siguiente:
+Como parte de Innovacción se desarrolla una práctica en la que se deben pide realizar lo siguiente:
 Toma de requerimientos.
 Buyer persona.
 Público objetivo. 
