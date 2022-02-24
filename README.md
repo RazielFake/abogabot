@@ -1,11 +1,12 @@
 # Práctica abogabot
 
 Como parte de Innovacción se desarrolla una práctica en la que se deben pide realizar lo siguiente:
-Toma de requerimientos.
-Buyer persona.
-Público objetivo. 
-Wireframe UX.
-UI.
+
+* Toma de requerimientos.
+* Buyer persona.
+* Público objetivo. 
+* Wireframe UX.
+* UI.
 
 Lo anterior con base en la siguiente descripción. 
 
