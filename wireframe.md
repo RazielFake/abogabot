@@ -7,4 +7,5 @@ En el siguiente wireframe se muestran las que se consideran las pantallas más i
 * Perfil de admin/abogado
 * Pantalla donde se mostrarán los casos asignados
 
-[Wireframe de abogabot](https://miro.com/app/board/uXjVOJgftac=/)
+![alt text](https://github.com/RazielFake/abogabot/blob/main/images/AbogabotWireframe.jpg?raw=true)
+
